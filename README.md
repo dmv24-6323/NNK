@@ -4,7 +4,7 @@ NNK is a static web site designed for NNK martial arts organization located at c
 Project Description
 -------------------
 
-The project was done using html, css and javascript. This is a portfolio web site designed for NNK martial arts academy located at chanthavila, Trivandrum.
+The project was done using html, css bootstrap and javascript. This is a portfolio web site designed for NNK martial arts academy located at chanthavila, Trivandrum.
 
 Platform tested
 ---------------
